@@ -8,5 +8,9 @@ namespace TeduShop.Common
 {
     class Class1
     {
+        public int Check(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
